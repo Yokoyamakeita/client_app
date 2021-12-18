@@ -88,7 +88,7 @@ class ContentPage1 extends StatelessWidget{
                 width: 300,
                 height: 100,
                 child:ElevatedButton(
-                    child: Text('運動情報',
+                    child: Text('お得情報',
                       style: TextStyle(
                         fontSize: 40,
                       ),
